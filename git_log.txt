@@ -1,3 +1,31 @@
+commit e68c063bd1aa87ce2dd1902ea79b433ce2c1090b
+Merge: 725fd87 b7f68be
+Author: Israel Melchor <155297236+touchvirtual@users.noreply.github.com>
+Date:   Fri Feb 13 22:27:27 2026 -0800
+
+    Merge pull request #1 from touchvirtual/feature-about-me
+    
+    Feature about me
+
+commit b7f68be77d05a315018636324a4ed92e21aa67b0
+Merge: dae7e94 725fd87
+Author: Israel Melchor <155297236+touchvirtual@users.noreply.github.com>
+Date:   Fri Feb 13 22:25:18 2026 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit dae7e94a852784acca957e3d3c51b4939fc0783c
+Author: Israel Melchor <israelmelchor1@gmail.com>
+Date:   Fri Feb 13 11:29:09 2026 -0800
+
+    Update index.html
+
+commit 725fd8716455e1d1c4822a7f0376b9a746cdf03a
+Author: Israel Melchor <israelmelchor1@gmail.com>
+Date:   Fri Feb 13 10:49:27 2026 -0800
+
+    created a git_log, url, and repo-location
+
 commit c543bf1ce0f99a1245a38f8850a539f22f9d2da4
 Author: Israel Melchor <155297236+touchvirtual@users.noreply.github.com>
 Date:   Fri Feb 13 10:33:39 2026 -0800
