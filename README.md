@@ -1,0 +1,1 @@
+This project demonstrates the use of Git and GitHub for version control, collaboration, and branch management. The assignment required creating a personal webpage, working with branches, submitting pull requests, and collaborating with a groupmate.
